@@ -1,6 +1,7 @@
 package cn.itcast.pyg.report.cn.itcast.pyg.tools;
 
 import org.apache.kafka.clients.producer.ProducerConfig;
+import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -56,6 +57,11 @@ public class KafkaUtils {
         map.put(ProducerConfig.BATCH_SIZE_CONFIG, batchSize);
         map.put(ProducerConfig.LINGER_MS_CONFIG, linger);
         map.put(ProducerConfig.BUFFER_MEMORY_CONFIG, bufferMemory);
+
+        //kafka的传输效率高,默认Java的序列化效率很低
+        map.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, StringSerializer.class);
+        map.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, StringSerializer.class);
+
 
         DefaultKafkaProducerFactory factory = new DefaultKafkaProducerFactory<>(map);
         //创建KafkaTemplate对象
