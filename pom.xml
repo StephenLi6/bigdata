@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>cn.itcast.pyg</groupId>
+    <artifactId>pyg</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>realProcess</module>
+        <module>report</module>
+        <module>sysDB</module>
+    </modules>
+
+<!--
+
+#初始化Git
+git init
+红色:未添加到版本控制
+绿色:已修改,未提交
+蓝色:测试
+
+#将本地和远程建立联系.后面的https为创建的仓库地址.这样就完成了版本的一次初始化。
+git remote add origin https://github.com/75826802/pyg.git
+# 将远程拉取到本地
+git pull origin master
+#将文件加入版本控制
+git add .
+#提交代码
+git commit -m "第一次提交"
+#将提交的代码推到远程仓库
+git push -u origin master
+
+-->
+</project>
