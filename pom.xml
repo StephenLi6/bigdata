@@ -21,6 +21,7 @@ git init
 红色:未添加到版本控制
 绿色:已加入版本控制,未提交
 蓝色:已修改,未提交
+白色:已提交/未修改
 
 #将本地和远程建立联系.后面的https为创建的仓库地址.这样就完成了版本的一次初始化。
 git remote add origin https://github.com/75826802/pyg.git
