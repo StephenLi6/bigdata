@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a56f707-4bf2-46bc-b9c2-c9994f0bc51c" name="Default Changelist" comment="test1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/Actor1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayofscala/src/com/theshy/Actor1.scala" afterDir="false" />
     </list>
     <manually-removed-from-ignored>
       <directory path="E:/BoringThing/hadoop加密视频5-7天/7、第七天/代码/bigdata_12/day07_flume/target/" />
@@ -119,7 +119,7 @@
           <entry key="JAVA" value="7516" />
           <entry key="JSP" value="1" />
           <entry key="PLAIN_TEXT" value="34" />
-          <entry key="Scala" value="7684" />
+          <entry key="Scala" value="7690" />
           <entry key="XML" value="301" />
           <entry key="YAML" value="8" />
         </counts>
@@ -162,19 +162,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/01/代码/cn/itcast/class_demo/Person.scala">
+        <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/06/代码/spark_shizhan/dependency-reduced-pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+            <state relative-caret-position="100">
+              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/06/代码/spark_shizhan/dependency-reduced-pom.xml">
+        <entry file="file://$PROJECT_DIR$/dayofscala/src/com/theshy/Actor1.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="75">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -295,7 +295,6 @@
         <option value="$PROJECT_DIR$/dayof_spark/src/main/scala/com/theshy/WordCount.scala" />
         <option value="$PROJECT_DIR$/dayof_spark/src/main/scala/com/theshy/WordCount_Online.scala" />
         <option value="$PROJECT_DIR$/dayof_spark/src/main/scala/com/theshy/Actor1.scala" />
-        <option value="$PROJECT_DIR$/dayofscala/src/com/theshy/Actor1.scala" />
         <option value="$PROJECT_DIR$/dayof_spark/src/main/scala/com/theshy/Uv.scala" />
         <option value="$PROJECT_DIR$/dayof_spark/src/main/scala/com/theshy/TopN.scala" />
         <option value="$PROJECT_DIR$/dayof_spark/src/main/scala/com/theshy/SparkStreamingSocket.scala" />
@@ -323,6 +322,7 @@
         <option value="$PROJECT_DIR$/dayof_hbase/pom.xml" />
         <option value="$PROJECT_DIR$/dayof_spark/src/main/scala/com/theshy/SparkStreamingKafka_Direct.scala" />
         <option value="$PROJECT_DIR$/dayof_flink/pom.xml" />
+        <option value="$PROJECT_DIR$/dayofscala/src/com/theshy/Actor1.scala" />
       </list>
     </option>
   </component>
@@ -395,7 +395,7 @@
       <path value="$USER_HOME$/Desktop/bigdata20170912/bigdata/analytics-manager/trunk/src/main/webapp/lib/metisMenu/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="611" />
     <option name="y" value="218" />
     <option name="width" value="1940" />
@@ -462,6 +462,7 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -856,7 +857,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="319883000" />
+    <option name="totallyTimeSpent" value="319892000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -868,7 +869,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="489" y="175" width="1552" height="880" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.50473934" side_tool="true" weight="0.21782842" />
       <window_info id="Designer" order="1" />
@@ -877,7 +879,7 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" weight="0.3297587" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49526066" visible="true" weight="0.21485944" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49526066" visible="true" weight="0.21514745" />
       <window_info id="Learn" order="8" />
       <window_info id="Web" order="9" sideWeight="0.50091076" side_tool="true" weight="0.2124665" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1060,7 +1062,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dayofscala/src/com/theshy/Actor1.scala">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dayof_spark/src/main/scala/com/theshy/SparkStreamingSocketWindow.scala">
       <provider selected="true" editor-type-id="text-editor">
