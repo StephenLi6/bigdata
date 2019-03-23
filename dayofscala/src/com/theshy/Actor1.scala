@@ -1,7 +1,7 @@
 package com.theshy
 
 import scala.actors.Actor
-
+//this is a branch test
 //todo:第一个例子：利用scala中的actor实现并发编程
 
 class Actor1 extends Actor {

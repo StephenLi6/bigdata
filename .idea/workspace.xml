@@ -502,7 +502,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
     <property name="two.files.diff.last.used.file" value="$USER_HOME$/Desktop/hadoop加密视频/3、第三天/代码/bigdata_12/day03_hdfs/src/main/java/cn/itcast/wordcount/JobMain.java" />
   </component>
   <component name="RecentsManager">
