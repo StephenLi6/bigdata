@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="akka">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\BoringThing\hadoop加密視頻21-25天\03\代码\akka-shizhan\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="dayof_spark">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\Mars\bigdata\dayof_spark\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="dayof_flink">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\Mars\bigdata\dayof_flink\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="spark (1),spark">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\BoringThing\hadoop加密視頻21-25天\06\代码\spark_shizhan\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="spark_class06 (1)">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\BoringThing\hadoop增強\spark课程\3、spark第三天\代码\spark_class06\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>

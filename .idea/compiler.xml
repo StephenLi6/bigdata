@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day07_flume" />
+        <module name="dayof_elasticsearch" />
+        <module name="dayof_flink" />
+        <module name="dayof_hbase" />
+        <module name="dayof_hdfs" />
+        <module name="dayof_kafka" />
+        <module name="dayof_spark" />
+        <module name="dayof_zookeeper" />
+        <module name="spark" />
+        <module name="spark_class06" />
+        <module name="spark_class06 (1)" />
+        <module name="spark_class06 (2)" />
+        <module name="springboot_demo" />
+        <module name="springbootTest" />
+        <module name="webLogParser" />
+        <module name="weblogWeb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="akka" target="1.8" />
+      <module name="bigdata_12" target="1.5" />
+      <module name="com.theshy" target="1.5" />
+      <module name="day01_zookeeper" target="1.8" />
+      <module name="day03_hdfs" target="1.8" />
+      <module name="day07_flume" target="1.8" />
+      <module name="dayof_elasticsearch" target="1.5" />
+      <module name="dayof_flink" target="1.8" />
+      <module name="dayof_hbase" target="1.8" />
+      <module name="dayof_hdfs" target="1.8" />
+      <module name="dayof_kafka" target="1.5" />
+      <module name="dayof_spark" target="1.5" />
+      <module name="dayof_zookeeper" target="1.8" />
+      <module name="spark" target="1.5" />
+      <module name="spark (1)" target="1.5" />
+      <module name="spark (2)" target="1.5" />
+      <module name="spark_class06" target="1.5" />
+      <module name="spark_class06 (1)" target="1.5" />
+      <module name="spark_class06 (2)" target="1.5" />
+      <module name="spark_class06 (3)" target="1.5" />
+      <module name="springboot_demo" target="1.8" />
+      <module name="springboot_demo (1)" target="1.8" />
+      <module name="springbootTest" target="1.6" />
+      <module name="webLogParser" target="1.8" />
+      <module name="weblogWeb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot_demo" options="-parameters" />
+      <module name="springboot_demo (1)" options="-parameters" />
+    </option>
+  </component>
+</project>

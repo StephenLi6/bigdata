@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="weblogWeb:war">
+    <output-path>E:/BoringThing/hadoop加密视频8-11天/9、第九天/weblogWeb/target</output-path>
+    <root id="archive" name="weblogWeb.war">
+      <element id="artifact" artifact-name="weblogWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

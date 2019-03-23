@@ -1,0 +1,17 @@
+com\theshy\partition\PartitionerReducer.class
+org\apache\hadoop\io\nativeio\NativeIO$Windows.class
+com\theshy\partition\PartitionMapper.class
+org\apache\hadoop\io\nativeio\NativeIO$CachedUid.class
+org\apache\hadoop\io\nativeio\NativeIO$Windows$AccessRight.class
+com\theshy\partition\PartitionMain.class
+com\theshy\partition\PartitionerOwn.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$CacheManipulator.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$IdCache.class
+org\apache\hadoop\io\nativeio\NativeIO.class
+com\theshy\wordcount\WordCountReducer.class
+com\theshy\wordcount\JobMain.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$Stat.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$NoMlockCacheManipulator.class
+com\theshy\wordcount\WordCountMapper.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$CachedName.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX.class

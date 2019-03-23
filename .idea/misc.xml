@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://E:/BoringThing/hadoop加密视频8-11天/9、第九天/weblogWeb" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$USER_HOME$/Desktop/springboot入门/springboot_demo/pom.xml" />
+        <option value="E:/BoringThing/springboot入门/springboot_demo/pom.xml" />
+        <option value="E:/BoringThing/Springboot补充/课上代码springbootTest/springbootTest/pom.xml" />
+        <option value="$PROJECT_DIR$/dayof_hdfs/pom.xml" />
+        <option value="$USER_HOME$/Desktop/hadoop加密视频/3、第三天/代码/bigdata_12/pom.xml" />
+        <option value="$PROJECT_DIR$/dayof_zookeeper/pom.xml" />
+        <option value="E:/BoringThing/hadoop加密视频5-7天/7、第七天/代码/bigdata_12/day07_flume/pom.xml" />
+        <option value="E:/BoringThing/hadoop加密视频8-11天/8、第八天/代码/webLogParser/pom.xml" />
+        <option value="E:/BoringThing/hadoop加密视频8-11天/9、第九天/weblogWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/dayof_kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/dayof_spark/pom.xml" />
+        <option value="E:/BoringThing/hadoop加密視頻21-25天/06/代码/spark_shizhan/pom.xml" />
+        <option value="$PROJECT_DIR$/dayof_hbase/pom.xml" />
+        <option value="E:/BoringThing/hadoop增強/spark课程/3、spark第三天/代码/spark_class06/dependency-reduced-pom.xml" />
+        <option value="E:/BoringThing/hadoop增強/spark课程/4、spark第四天/代码/spark_class06/pom.xml" />
+        <option value="E:/BoringThing/hadoop增強/spark课程/4、spark第四天/代码/spark_class06/dependency-reduced-pom.xml" />
+        <option value="$PROJECT_DIR$/dayof_elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/dayof_flink/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$USER_HOME$/Desktop/hadoop加密视频/3、第三天/代码/bigdata_12/day01_zookeeper/pom.xml" />
+        <option value="$USER_HOME$/Desktop/hadoop加密视频/3、第三天/代码/bigdata_12/day03_hdfs/pom.xml" />
+        <option value="$USER_HOME$/Desktop/hadoop加密视频/3、第三天/代码/bigdata_12/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

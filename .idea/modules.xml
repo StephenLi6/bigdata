@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/analytics-manager/trunk/analytics-manager.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/analytics-manager/trunk/analytics-manager.iml" />
+      <module fileurl="file://E:/BoringThing/hadoop加密視頻21-25天/01/代码/cn/cn.iml" filepath="E:/BoringThing/hadoop加密視頻21-25天/01/代码/cn/cn.iml" />
+      <module fileurl="file://E:/BoringThing/hadoop加密视频5-7天/7、第七天/代码/bigdata_12/day07_flume/day07_flume.iml" filepath="E:/BoringThing/hadoop加密视频5-7天/7、第七天/代码/bigdata_12/day07_flume/day07_flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayof_elasticsearch/dayof_elasticsearch.iml" filepath="$PROJECT_DIR$/dayof_elasticsearch/dayof_elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayof_flink/dayof_flink.iml" filepath="$PROJECT_DIR$/dayof_flink/dayof_flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayof_hbase/dayof_hbase.iml" filepath="$PROJECT_DIR$/dayof_hbase/dayof_hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayof_hdfs/dayof_hdfs.iml" filepath="$PROJECT_DIR$/dayof_hdfs/dayof_hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayof_kafka/dayof_kafka.iml" filepath="$PROJECT_DIR$/dayof_kafka/dayof_kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayof_spark/dayof_spark.iml" filepath="$PROJECT_DIR$/dayof_spark/dayof_spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayof_zookeeper/dayof_zookeeper.iml" filepath="$PROJECT_DIR$/dayof_zookeeper/dayof_zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayofscala/dayofscala.iml" filepath="$PROJECT_DIR$/dayofscala/dayofscala.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/es-common/es-common.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/es-common/es-common.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/hbase-common/hbase-common.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/hbase-common/hbase-common.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/hbase-init/hbase-init.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/hbase-init/hbase-init.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/hive-common/hive-common.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/hive-common/hive-common.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/http-util/trunk/http-util.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/http-util/trunk/http-util.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/kafka-common/kafka-common.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/kafka-common/kafka-common.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/mr2-common/mr2-common.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/mr2-common/mr2-common.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/mr2-task-clean/mr2-task-clean.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/mr2-task-clean/mr2-task-clean.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/redis-common/redis-common.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/redis-common/redis-common.iml" />
+      <module fileurl="file://E:/BoringThing/hadoop加密視頻21-25天/06/代码/spark_shizhan/spark.iml" filepath="E:/BoringThing/hadoop加密視頻21-25天/06/代码/spark_shizhan/spark.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/spark-credit/spark-credit.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/spark-credit/spark-credit.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/sparkMLlib-credit/sparkMLlib-credit.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/sparkMLlib-credit/sparkMLlib-credit.iml" />
+      <module fileurl="file://E:/BoringThing/hadoop增強/spark课程/4、spark第四天/代码/spark_class06/spark_class06.iml" filepath="E:/BoringThing/hadoop增強/spark课程/4、spark第四天/代码/spark_class06/spark_class06.iml" />
+      <module fileurl="file://E:/BoringThing/hadoop增強/spark课程/3、spark第三天/代码/spark_class06/spark_class06 (1).iml" filepath="E:/BoringThing/hadoop增強/spark课程/3、spark第三天/代码/spark_class06/spark_class06 (1).iml" />
+      <module fileurl="file://E:/BoringThing/hadoop增強/spark课程/4、spark第四天/代码/spark_class06/spark_class06 (2).iml" filepath="E:/BoringThing/hadoop增強/spark课程/4、spark第四天/代码/spark_class06/spark_class06 (2).iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/sparksql-credit/sparksql-credit.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/sparksql-credit/sparksql-credit.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/spring-common/spring-common.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/spring-common/spring-common.iml" />
+      <module fileurl="file://E:/BoringThing/Springboot补充/课上代码springbootTest/springbootTest/springbootTest.iml" filepath="E:/BoringThing/Springboot补充/课上代码springbootTest/springbootTest/springbootTest.iml" />
+      <module fileurl="file://E:/BoringThing/springboot入门/springboot_demo/springboot_demo.iml" filepath="E:/BoringThing/springboot入门/springboot_demo/springboot_demo.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/stream-common/stream-common.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/stream-common/stream-common.iml" />
+      <module fileurl="file://E:/BoringThing/hadoop加密视频8-11天/8、第八天/代码/webLogParser/webLogParser.iml" filepath="E:/BoringThing/hadoop加密视频8-11天/8、第八天/代码/webLogParser/webLogParser.iml" />
+      <module fileurl="file://E:/BoringThing/hadoop加密视频8-11天/9、第九天/weblogWeb/weblogWeb.iml" filepath="E:/BoringThing/hadoop加密视频8-11天/9、第九天/weblogWeb/weblogWeb.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yarn-master.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yarn-master.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-common/yuancredit-common.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-common/yuancredit-common.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-consume/yuancredit-consume.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-consume/yuancredit-consume.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-credit/yuancredit-credit.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-credit/yuancredit-credit.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-es/yuancredit-es.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-es/yuancredit-es.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-produce/yuancredit-produce.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-produce/yuancredit-produce.iml" />
+      <module fileurl="file://E:/BoringThing/hadoop加密視頻21-25天/02/代码/代码.iml" filepath="E:/BoringThing/hadoop加密視頻21-25天/02/代码/代码.iml" />
+      <module fileurl="file://E:/BoringThing/hadoop加密視頻21-25天/03/代码/代码1.iml" filepath="E:/BoringThing/hadoop加密視頻21-25天/03/代码/代码1.iml" />
+    </modules>
+  </component>
+</project>
