@@ -2,9 +2,7 @@ package com.theshy
 
 import scala.actors.Actor
 
-/**
-  *
-  */
+//this is a test 2 for the branch
 //todo:第一个例子：利用scala中的actor实现并发编程
 
 class Actor1 extends Actor {
