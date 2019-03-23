@@ -395,7 +395,7 @@
       <path value="$USER_HOME$/Desktop/bigdata20170912/bigdata/analytics-manager/trunk/src/main/webapp/lib/metisMenu/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="611" />
     <option name="y" value="218" />
     <option name="width" value="1940" />
@@ -494,7 +494,7 @@
     <property name="SearchEverywhereHistoryKey" value="SPARK_CONFIG_NUM_RDD_PARTITIONS&#9;PSI&#9;JAVA://com.credit.mate.java.utils.YcConstants#SPARK_CONFIG_NUM_RDD_PARTITIONS&#10;SPARK_STREAMING_RECEIVER_MAX_RATE&#9;PSI&#9;JAVA://com.credit.mate.java.utils.YcConstants#SPARK_STREAMING_RECEIVER_MAX_RATE_PRAMA&#10;concurrenthashmap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;concurrent&#9;FILE&#9;jar://D:/Java/javafx-src.zip!/javafx/concurrent&#10;inputformat&#9;PSI&#9;JAVA://org.apache.hadoop.mapred.InputFormat" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553307817978" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553307831533" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="E:/BoringThing/hadoop增強/spark课程/4、spark第四天/代码/spark_class06" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
