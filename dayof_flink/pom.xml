@@ -54,23 +54,64 @@
         </dependency>
 
     </dependencies>
+
+
     <build>
+        <sourceDirectory>src/main/java</sourceDirectory>
+        <testSourceDirectory>src/main/scala</testSourceDirectory>
         <plugins>
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.0</version>
+                <version>2.5.1</version>
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
-                    <encoding>UTF-8</encoding>
-                    <!--    <verbal>true</verbal>-->
+                    <!--<encoding>${project.build.sourceEncoding}</encoding>-->
                 </configuration>
             </plugin>
+
+            <plugin>
+                <groupId>net.alchim31.maven</groupId>
+                <artifactId>scala-maven-plugin</artifactId>
+                <version>3.2.0</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>compile</goal>
+                            <goal>testCompile</goal>
+                        </goals>
+                        <configuration>
+                            <args>
+                                <!--<arg>-make:transitive</arg>-->
+                                <arg>-dependencyfile</arg>
+                                <arg>${project.build.directory}/.scala_dependencies</arg>
+                            </args>
+
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.18.1</version>
+                <configuration>
+                    <useFile>false</useFile>
+                    <disableXmlReport>true</disableXmlReport>
+                    <includes>
+                        <include>**/*Test.*</include>
+                        <include>**/*Suite.*</include>
+                    </includes>
+                </configuration>
+            </plugin>
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-shade-plugin</artifactId>
-                <version>2.2</version>
+                <version>2.3</version>
                 <executions>
                     <execution>
                         <phase>package</phase>
@@ -82,14 +123,23 @@
                                 <filter>
                                     <artifact>*:*</artifact>
                                     <excludes>
+                                        <!--
+                                        zip -d learn_spark.jar META-INF/*.RSA META-INF/*.DSA META-INF/*.SF
+                                        -->
                                         <exclude>META-INF/*.SF</exclude>
                                         <exclude>META-INF/*.DSA</exclude>
-                                        <exclude>META-INF/*/RSA</exclude>
+                                        <exclude>META-INF/*.RSA</exclude>
                                     </excludes>
                                 </filter>
                             </filters>
+                            <transformers>
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                    <mainClass>cn.itcast.flink.WorldCount_02</mainClass>
+                                </transformer>
+                            </transformers>
                         </configuration>
                     </execution>
+
                 </executions>
             </plugin>
         </plugins>
