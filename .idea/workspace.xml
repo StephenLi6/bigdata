@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a56f707-4bf2-46bc-b9c2-c9994f0bc51c" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo1.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo2ToHdfs.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo3FlatMap.scala" afterDir="false" />
@@ -72,6 +73,25 @@
       <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/TestExtends.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayofscala/src/com/theshy/dataset/TestExtends.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/TestExtendsObj.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayofscala/src/com/theshy/dataset/TestExtendsObj.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/VariableDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayofscala/src/com/theshy/dataset/VariableDemo.scala" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/Actor1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/dayofscala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/dayofscala.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/Actor1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/Actor1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/Boss.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/Boss.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/CaseDemo1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/CaseDemo1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/HelloScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/HelloScala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/ManToSuperMan.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/ManToSuperMan.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/Person.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/Person.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/Person5.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/Person5.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/Session.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/Session.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/Student3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/Student3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/TestAgain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/TestAgain.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/TestExtends.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/TestExtends.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/TestExtendsObj.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/TestExtendsObj.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayofscala/src/com/theshy/VariableDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/VariableDemo.scala" afterDir="false" />
+>>>>>>> TestBranch
     </list>
     <ignored path="$PROJECT_DIR$/dayof_zookeeper/target/" />
     <ignored path="$USER_HOME$/Desktop/springboot入门/springboot_demo/target/" />
@@ -127,8 +147,13 @@
     <session id="2025589430">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="49" />
           <entry key="project.open.time.1" value="1" />
+=======
+          <entry key="project.closed" value="51" />
+          <entry key="project.open.time.1" value="2" />
+>>>>>>> TestBranch
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="2" />
@@ -145,15 +170,15 @@
           <entry key="project.open.time.33" value="4" />
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.35" value="2" />
-          <entry key="project.open.time.37" value="4" />
+          <entry key="project.open.time.37" value="5" />
           <entry key="project.open.time.38" value="4" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.40" value="3" />
+          <entry key="project.open.time.40" value="4" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.45" value="3" />
-          <entry key="project.open.time.46" value="2" />
+          <entry key="project.open.time.46" value="3" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.48" value="2" />
           <entry key="project.open.time.49" value="1" />
@@ -165,7 +190,11 @@
           <entry key="project.open.time.73" value="1" />
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.98" value="1" />
+<<<<<<< HEAD
           <entry key="project.opened" value="80" />
+=======
+          <entry key="project.opened" value="84" />
+>>>>>>> TestBranch
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -181,7 +210,11 @@
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="Properties" value="3" />
           <entry key="SQL" value="1" />
+<<<<<<< HEAD
           <entry key="Scala" value="286" />
+=======
+          <entry key="Scala" value="292" />
+>>>>>>> TestBranch
           <entry key="XML" value="42" />
           <entry key="YAML" value="3" />
         </counts>
@@ -191,10 +224,20 @@
           <entry key="HOCON" value="2" />
           <entry key="JAVA" value="7516" />
           <entry key="JSP" value="1" />
+<<<<<<< HEAD
           <entry key="PLAIN_TEXT" value="34" />
+=======
+          <entry key="PLAIN_TEXT" value="60" />
+>>>>>>> TestBranch
           <entry key="Scala" value="9629" />
           <entry key="XML" value="313" />
           <entry key="YAML" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="4" />
+          <entry key="git.checkout.as.new.branch" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -204,16 +247,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo6Join.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="975">
               <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dayof_flink/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="89" column="38" lean-forward="true" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
+>>>>>>> TestBranch
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo7Dinstinct.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
@@ -230,11 +282,18 @@
               <folding>
                 <element signature="e#31#66#0" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo6Join.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+>>>>>>> TestBranch
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/datastream/Demo2Road.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -260,10 +319,22 @@
               <folding>
                 <element signature="e#31#87#0" expanded="true" />
               </folding>
+=======
+        <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/02/代码/Actor实战/actor/Actor1.scala">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/02/代码/Actor实战/actor/Task.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+>>>>>>> TestBranch
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dayof_kafka/src/main/java/com/theshy/dataset/OrderConsumer.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -272,6 +343,13 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/02/代码/Actor实战/actor/Actor6.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
+>>>>>>> TestBranch
             </state>
           </provider>
         </entry>
@@ -279,6 +357,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/spark-credit/src/main/resources/assembly.xml">
           <provider selected="true" editor-type-id="text-editor" />
+<<<<<<< HEAD
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -293,6 +372,13 @@
               <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             </state>
           </provider>
+=======
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/spark-credit/src/main/resources/application.conf">
+          <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> TestBranch
         </entry>
       </file>
     </leaf>
@@ -475,7 +561,11 @@
       <path value="$USER_HOME$/Desktop/bigdata20170912/bigdata/analytics-manager/trunk/src/main/webapp/lib/metisMenu/package.json" />
     </packageJsonPaths>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+>>>>>>> TestBranch
     <option name="x" value="715" />
     <option name="y" value="20" />
     <option name="width" value="1145" />
@@ -554,28 +644,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="PackagesPane" />
+=======
+>>>>>>> TestBranch
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="dayof_kafka" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
               <item name="dayof_kafka" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="dayof_flink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dayof_flink" type="462c0819:PsiDirectoryNode" />
+>>>>>>> TestBranch
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="dayof_kafka" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="dayof_flink" type="462c0819:PsiDirectoryNode" />
+>>>>>>> TestBranch
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="dayof_kafka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -587,19 +693,40 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="dayof_flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dayof_flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+>>>>>>> TestBranch
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="dayof_kafka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="dayof_flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+>>>>>>> TestBranch
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="theshy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="dayof_kafka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -618,11 +745,22 @@
               <item name="theshy" type="462c0819:PsiDirectoryNode" />
               <item name="dataset" type="462c0819:PsiDirectoryNode" />
               <item name="OrderConsumer" type="1a9f42e2:ClassTreeNode" />
+=======
+              <item name="dayof_flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="theshy" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+>>>>>>> TestBranch
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -634,7 +772,11 @@
     <property name="SearchEverywhereHistoryKey" value="SPARK_CONFIG_NUM_RDD_PARTITIONS&#9;PSI&#9;JAVA://com.credit.mate.java.utils.YcConstants#SPARK_CONFIG_NUM_RDD_PARTITIONS&#10;SPARK_STREAMING_RECEIVER_MAX_RATE&#9;PSI&#9;JAVA://com.credit.mate.java.utils.YcConstants#SPARK_STREAMING_RECEIVER_MAX_RATE_PRAMA&#10;concurrenthashmap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;concurrent&#9;FILE&#9;jar://D:/Java/javafx-src.zip!/javafx/concurrent&#10;inputformat&#9;PSI&#9;JAVA://org.apache.hadoop.mapred.InputFormat" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553695125123" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553777047632" />
+>>>>>>> TestBranch
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="E:/BoringThing/flink/Flink_Day03/code/pyg" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -933,7 +1075,15 @@
       <workItem from="1553603150771" duration="2820000" />
       <workItem from="1553647059433" duration="20270000" />
       <workItem from="1553735411014" duration="2771000" />
+<<<<<<< HEAD
       <workItem from="1553774855413" duration="606000" />
+=======
+      <workItem from="1553774855413" duration="2343000" />
+      <workItem from="1553930064917" duration="598000" />
+      <workItem from="1554017081104" duration="1197000" />
+      <workItem from="1554093440040" duration="1775000" />
+      <workItem from="1554113059067" duration="266000" />
+>>>>>>> TestBranch
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1550797623118</created>
@@ -955,6 +1105,7 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1553308050107</updated>
+<<<<<<< HEAD
     </task>
     <task id="LOCAL-00004" summary="test1">
       <created>1553308420755</created>
@@ -971,6 +1122,31 @@
       <updated>1553308530219</updated>
     </task>
     <option name="localTasksCounter" value="6" />
+=======
+    </task>
+    <task id="LOCAL-00004" summary="test1">
+      <created>1553308420755</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553308420755</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test1">
+      <created>1553308530218</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553308530219</updated>
+    </task>
+    <task id="LOCAL-00006" summary="It's about the flink">
+      <created>1553775727967</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553775727967</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+>>>>>>> TestBranch
     <servers />
   </component>
   <component name="TestHistory">
@@ -1006,7 +1182,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="356188000" />
+=======
+    <option name="totallyTimeSpent" value="361761000" />
+>>>>>>> TestBranch
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1027,7 +1207,11 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" weight="0.3297587" />
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49526066" visible="true" weight="0.21447721" />
+=======
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.49526066" visible="true" weight="0.19571045" />
+>>>>>>> TestBranch
       <window_info id="Learn" order="8" />
       <window_info id="Web" order="9" sideWeight="0.50091076" side_tool="true" weight="0.2124665" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1043,7 +1227,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32732317" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32871014" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.59084606" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.5492372" />
       <window_info anchor="bottom" id="JRebel Executor" order="14" />
       <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.5013405" side_tool="true" weight="0.24133149" />
       <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.49865952" weight="0.26213592" />
@@ -1137,7 +1321,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+    <MESSAGE value="It's about the flink" />
+    <option name="LAST_COMMIT_MESSAGE" value="It's about the flink" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1196,6 +1381,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/sparkMLlib-credit/src/main/scala/com/creditmate/mllib/AppSparkMLlib.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1240,11 +1426,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dayof_elasticsearch/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.6.1/elasticsearch-6.6.1.jar!/org/elasticsearch/client/support/AbstractClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="392" column="75" selection-start-line="392" selection-start-column="75" selection-end-line="392" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.6.1/elasticsearch-6.6.1-sources.jar!/org/elasticsearch/tasks/TaskResultsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="175" column="5" lean-forward="true" selection-start-line="175" selection-start-column="5" selection-end-line="175" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.6.1/elasticsearch-6.6.1-sources.jar!/org/elasticsearch/client/support/AbstractClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="430" column="38" selection-start-line="430" selection-start-column="38" selection-end-line="430" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dayof_elasticsearch/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> TestBranch
         <state relative-caret-position="275">
           <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/dayof_spark/src/main/scala/com/theshy/dataset/SparkStreamingKafka_Direct.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
@@ -1321,6 +1533,56 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-produce/doc/produce接口文档.md">
+=======
+    <entry file="file://$PROJECT_DIR$/dayof_spark/src/main/scala/com/theshy/dataset/SparkStreamingKafka_Direct.scala" />
+    <entry file="file://$PROJECT_DIR$/dayof_elasticsearch/src/main/java/com/theshy/dataset/EsDay01Test.java" />
+    <entry file="file://$PROJECT_DIR$/dayof_elasticsearch/src/main/java/com/theshy/dataset/Article.java" />
+    <entry file="file://$PROJECT_DIR$/dayof_elasticsearch/src/main/java/com/theshy/dataset/EsSpringDataTest1.java" />
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/01/代码/cn/itcast/class_demo/Person.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/03/代码/akka-shizhan/src/main/scala/cn/itcast/spark/Master.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/03/代码/akka-shizhan/src/main/scala/cn/itcast/spark/RemoteMessage.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/03/代码/akka-shizhan/src/main/scala/cn/itcast/spark/Worker.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/06/代码/spark_shizhan/dependency-reduced-pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dayof_hbase/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2425">
+          <caret line="97" column="12" selection-start-line="58" selection-start-column="4" selection-end-line="97" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dayof_scala/src/com/theshy/dataset/Actor1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-produce/doc/produce接口文档.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1328,6 +1590,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/spark-credit/spark-credit.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/spark-credit/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/analytics-manager/trunk/doc/DB创建脚本.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-credit/doc/credit接口文档.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-credit/doc/消费银行数据接口V1.0.md">
+>>>>>>> TestBranch
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/spark-credit/spark-credit.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1432,6 +1727,63 @@
         </state>
       </provider>
     </entry>
+=======
+    <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/yuancredit-consume/doc/shutdown.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-java/1.6.0/flink-java-1.6.0.jar!/org/apache/flink/api/java/ExecutionEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="368" selection-start-line="368" selection-end-line="368" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-java/1.6.0/flink-java-1.6.0-sources.jar!/org/apache/flink/api/java/ExecutionEnvironment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="936" column="16" selection-start-line="936" selection-start-column="16" selection-end-line="936" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/analytics-manager/trunk/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo2ToHdfs.scala" />
+    <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/sparkMLlib-credit/src/main/scala/com/creditmate/mllib/util/SparkMLCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/sparkMLlib-credit/src/main/scala/com/creditmate/mllib/util/HbaseUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/sparkMLlib-credit/src/main/scala/com/creditmate/mllib/util/DateTimeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-scala_2.11/1.6.0/flink-scala_2.11-1.6.0.jar!/org/apache/flink/api/scala/GroupedDataSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo1.scala" />
+    <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo3FlatMap.scala" />
+>>>>>>> TestBranch
     <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/sparksql-credit/src/main/resources/hive-site.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5258" />
@@ -1449,6 +1801,7 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/sparksql-credit/src/main/resources/application.conf">
       <provider selected="true" editor-type-id="text-editor" />
+<<<<<<< HEAD
     </entry>
     <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo5Reduce.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -1485,11 +1838,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="42" selection-start-line="3" selection-end-line="4" />
+=======
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo5Reduce.scala" />
+    <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo7Dinstinct.scala" />
+    <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/datastream/Demo3WaterMarker.scala" />
+    <entry file="file://$PROJECT_DIR$/dayof_kafka/src/main/java/com/theshy/dataset/OrderConsumer.java" />
+    <entry file="file://$PROJECT_DIR$/dayof_spark/src/main/scala/com/theshy/dataset/StreamingKafka1.scala" />
+    <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/datastream/Demo2Road.scala" />
+    <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/datastream/Demo1HelloStream.scala" />
+    <entry file="file://$PROJECT_DIR$/dayof_flink/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="89" column="38" lean-forward="true" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dayof_flink/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dayof_flink/src/main/scala/com/theshy/dataset/Demo6Join.scala">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/02/代码/Actor实战/actor/Actor1.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/02/代码/Actor实战/actor/Task.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+>>>>>>> TestBranch
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/BoringThing/hadoop加密視頻21-25天/02/代码/Actor实战/actor/Actor6.scala">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="2050">
           <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
         </state>
@@ -1505,12 +1890,20 @@
         </state>
       </provider>
     </entry>
+=======
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> TestBranch
     <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/spark-credit/src/main/resources/assembly.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/spark/spark-credit/src/main/resources/application.conf">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/dayof_spark/src/main/scala/com/theshy/dataset/StreamingKafka1.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1528,6 +1921,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> TestBranch
   </component>
   <component name="masterDetails">
     <states>
