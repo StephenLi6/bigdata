@@ -12,7 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/dayof_kafka/dayof_kafka.iml" filepath="$PROJECT_DIR$/dayof_kafka/dayof_kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/dayof_spark/dayof_spark.iml" filepath="$PROJECT_DIR$/dayof_spark/dayof_spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/dayof_zookeeper/dayof_zookeeper.iml" filepath="$PROJECT_DIR$/dayof_zookeeper/dayof_zookeeper.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dayofscala/dayofscala.iml" filepath="$PROJECT_DIR$/dayofscala/dayofscala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayof_scala/dayofscala.iml" filepath="$PROJECT_DIR$/dayof_scala/dayofscala.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/es-common/es-common.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/es-common/es-common.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/hbase-common/hbase-common.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/hbase-common/hbase-common.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/hbase-init/hbase-init.iml" filepath="$USER_HOME$/Desktop/bigdata20170912/bigdata/yarn-master/trunk/hbase-init/hbase-init.iml" />

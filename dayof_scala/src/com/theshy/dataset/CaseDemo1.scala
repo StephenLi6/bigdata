@@ -1,4 +1,4 @@
-package com.theshy
+package com.theshy.dataset
 
 import scala.util.Random
 
