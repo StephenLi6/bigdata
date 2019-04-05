@@ -22,8 +22,8 @@ public class UserBrowseRecord {
      * 地区
      */
     private static String[] countrys = new String[]{"America","china"};//地区-国家集合
-    private static String[] provinces = new String[]{"America","china"};//地区-省集合
-    private static String[] citys = new String[]{"北京","上海"};//地区-市集合
+    private static String[] provinces = new String[]{"广东省","安徽省","浙江省"};//地区-省集合
+    private static String[] citys = new String[]{"广州","深圳","杭州"};//地区-市集合
 
     /**
      *网络方式
