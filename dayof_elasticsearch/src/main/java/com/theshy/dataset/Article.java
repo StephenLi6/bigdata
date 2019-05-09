@@ -9,6 +9,7 @@ import org.springframework.data.elasticsearch.annotations.Document;
  * com.theshybigdata
  */
 public class Article {
+    //this is a test for sourceTree
     private Integer id;
     private String title;
     private String content;
